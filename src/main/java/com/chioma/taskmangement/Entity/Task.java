@@ -1,4 +1,4 @@
-package com.taskListManagementApp.Entity;
+package com.chioma.taskmangement.Entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

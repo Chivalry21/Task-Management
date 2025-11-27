@@ -1,10 +1,8 @@
-package com.taskListManagementApp;
-
-import com.taskListManagementApp.Entity.Task;
-import com.taskListManagementApp.repository.RepositoryTask;
+package com.chioma.taskmangement;
+import com.chioma.taskmangement.Entity.Task;
+import com.chioma.taskmangement.repository.RepositoryTask;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
-
 import java.util.List;
 
 @RestController
